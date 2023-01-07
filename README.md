@@ -3,8 +3,8 @@ This is a weather application that allows users to see the current weather detai
 
 ## Features
 **Display current weather details of our city
-Display current weather details for any location
-Display a weather forecast for a location that u can choose
+**Display current weather details for any location
+**Display a weather forecast for a location that u can choose
 
 
 ## Technologies Used
