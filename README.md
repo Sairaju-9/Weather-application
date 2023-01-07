@@ -9,6 +9,7 @@ This is a weather application that allows users to see the current weather detai
 
 ## Technologies Used
 This weather application was built using the following technologies:
+
 -HTML
 *CSS
 +JavaScript
