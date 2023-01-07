@@ -14,5 +14,5 @@ HTML,
 CSS,
 JavaScript.
 
-Getting Started
+Getting Started:
 To get started with the weather application, simply enable your location service . The application will then display the current weather details for your location, as well as u can choose any specific location the application show the temperature.
