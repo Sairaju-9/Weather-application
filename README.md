@@ -16,3 +16,5 @@ This weather application was built using the following technologies:
 
 ## Getting Started
 To get started with the weather application, simply enable your location service . The application will then display the current weather details for your location, as well as u can choose any specific location the application show the temperature.
+
+## click here to open project [LINK](https://sairaju-9.github.io/Weather-application/)
