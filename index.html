@@ -7,19 +7,15 @@
     <title>Weather App</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
     <link rel="stylesheet" href="./styles/styles.css" />
-    <link rel="icon" id="favicon" type="image/png" sizes="120x120" href="icons8-clouds-96.png">
+    <link rel="icon" id="favicon" type="image/png" href="./animated/weather.svg">
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
-     crossorigin=""/>
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
-     crossorigin=""></script>
-     <link rel="stylesheet" href="styles.css">
-     <script src="script.js"></script> 
-    
-
-    
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
+    <script src="script.js"></script>
 </head>
 
 <body>
@@ -27,7 +23,7 @@
         <div id="map"></div>
         <div id="weather">
             <h1 class="location-timezone"></h1>
-            <p class="icon"></p>
+            <i class="icon wi"></i>
             <div class="temperature-description"></div>
             <h2 class="temperature-degree"></h2>
             <div>
@@ -37,9 +33,7 @@
             <div class="windSpeed"></div>
         </div>
     </div>
-    </div>
     <script type="module" src="script.js"></script>
-    
 </body>
 
 </html>
